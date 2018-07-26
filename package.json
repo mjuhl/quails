@@ -1,0 +1,22 @@
+{
+  "name": "quails",
+  "version": "0.0.1",
+  "description": "A work in progress. ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjuhl/quails.git"
+  },
+  "keywords": [
+    "quails"
+  ],
+  "author": "mjuhl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjuhl/quails/issues"
+  },
+  "homepage": "https://github.com/mjuhl/quails#readme"
+}
